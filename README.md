@@ -3,7 +3,7 @@
 A comprehensive, full-stack platform designed to help students discover, register for, and manage college events and clubs.
 
 
-
+live preview:https://college-events-ma9b.vercel.app/
 ## ✨ Features
 
 ### For Students (Participants)
